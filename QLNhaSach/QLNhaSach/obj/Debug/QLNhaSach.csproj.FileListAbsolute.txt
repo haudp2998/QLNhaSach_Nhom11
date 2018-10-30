@@ -1,0 +1,57 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmChuongtrinh.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmSach.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmBanSach.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmBaoCao1.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmBaoCao2.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmKhachHang.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmNhapSach.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmQuyDinh.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmThuTien.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmNhanVien.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmLogin.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe.config
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.exe
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.pdb
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.pdb
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmBanSach.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmBaoCao1.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmBaoCao2.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmChuongtrinh.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmKhachHang.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmLogin.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmNhanVien.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmQuyDinh.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmSach.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmThuTien.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.Properties.Resources.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.csproj.GenerateResource.Cache
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.GiaoDien.frmDoiMatKhau.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmPhieuNhap.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.GiaoDien.frmChiTietPhieuNhap.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmHoaDon.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmReport1.resources
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\RdlCompile.cache
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\RdlCompile.compiled
+C:\Users\Dell\Downloads\QLNS\QLNS\QLNhaSach\QLNhaSach\QLNhaSach\obj\Debug\QLNhaSach.frmReport2.resources
